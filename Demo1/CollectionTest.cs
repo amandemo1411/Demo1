@@ -8,6 +8,9 @@ namespace Demo1
 {
     public class CollectionTest
     {
-         
+        public void DictionaryExample()
+        {
+            Console.Write("Dictionary example");
+        }
     }
 }
